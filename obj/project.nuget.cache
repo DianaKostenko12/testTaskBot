@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WxX/xBzX/uRooZcrNdwdEyYdVCXWIkptZipcTxaCi8eEfwNGUSGK1V9pnXyFFgY1GD8SPZCRr2kT4LT9iIQWVw==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\JobTask\\TgInfoBot\\TgInfoBot\\TgInfoBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Админ\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Админ\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
